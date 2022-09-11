@@ -14,5 +14,5 @@
  },
  ],
  "extensions.autoUpdate": false
-}
+}```
 8. 存在问题：在centos中每个java项目需要单独设置.vscode文件
