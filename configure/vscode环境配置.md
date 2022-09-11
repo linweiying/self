@@ -6,7 +6,7 @@
 4. 文件->首选项->设置![](./img/java_configure_1.png)
 5. 远程->拓展->java->在settings.json中编辑![](./img/java_configure_2.png)
 6. settings.json配置如下
-7. 
+7.
 ``` json
 {"java.configuration.runtimes": [
  {
@@ -16,6 +16,5 @@
  },
  ],
  "extensions.autoUpdate": false
-}```
-
+}``` 
 8. 存在问题：在centos中每个java项目需要单独设置.vscode文件
